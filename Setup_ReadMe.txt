@@ -7,7 +7,3 @@ Steps-
 5. Download Postman Chrome Extension for testing.
 6. Subsequent URL (provided in the Yumist Assignment 1.docx File) are tested on postman.
 
-
-Shubham Gupta
-8527326325
-07shubhamg@gmail.com 
